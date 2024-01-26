@@ -33,8 +33,8 @@ Here are some projects I've worked on:
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/vgdan25))
+- Email: vgdan.1999@gmail.com
 
 ## Get in Touch
 
