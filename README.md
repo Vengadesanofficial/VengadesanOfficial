@@ -23,7 +23,7 @@ I am a Full Stack Developer passionate about creating scalable and efficient web
 
 Here are some projects I've worked on:
 
-1. **Project 1: [Kitchen Recipe Management]([link-to-project](https://stately-youtiao-dece60.netlify.app/))**
+1. **Project 1: [Kitchen Recipe Management](https://stately-youtiao-dece60.netlify.app/)**
    Description of the project and the technologies used.
 
 2. **Project 2: [Mark Down editor with Live preview]( https://profound-beignet-ffc61c.netlify.app)**
