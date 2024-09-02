@@ -29,7 +29,7 @@ Here are some projects I've worked on:
 2. **Project 2: [Mark Down editor with Live preview]( https://profound-beignet-ffc61c.netlify.app)**
    Description of the project and the technologies used.
 
-3.  **Project 2: [Taikonz]( [https://profound-beignet-ffc61c.netlify.app)**
+3.  **Project 3: [Taikonz]( [https://profound-beignet-ffc61c.netlify.app)**
    Description of the project and the technologies used. 
 
 ## Contact
