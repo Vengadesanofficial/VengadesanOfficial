@@ -22,7 +22,7 @@ I am a Full Stack Developer passionate about creating scalable and efficient web
 ## Projects Live Link
 
 Here are some projects I've worked on:
-1. **Project 1: [Doctor Booking Apllication](https://healixhospital.netlify.app/)**
+1. **Project 1: [Doctor Booking Apllication](https://healixspeciality.netlify.app/)**
   Click the project tile to view the live site.
 2. **Project 2: [Kitchen Recipe Management](https://stately-youtiao-dece60.netlify.app/)**
   Click the project tile to view the live site.
