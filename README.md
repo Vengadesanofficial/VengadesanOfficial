@@ -1,51 +1,72 @@
-# Hello, I'm Vengadesan! 👋
+# 👋 Hello, I'm Vengadesan!
 
-I am a Full Stack Developer passionate about creating scalable and efficient web applications. With a strong foundation in HTML, CSS, and JavaScript, and expertise in modern technologies like React, MongoDB, Node.js, MySQL, and AWS, I strive to deliver high-quality solutions.
+I’m a **Full Stack Developer** passionate about building scalable and efficient web applications. I specialize in both frontend and backend technologies, with experience in cloud platforms and modern development tools.
 
-## Skills
+---
 
-- **Frontend:**
-  - HTML, CSS
-  - JavaScript (ES6+)
-  - React
-  - Bootstrap, Tailwind CSS
+## 🛠️ Tech Stack
 
-- **Backend:**
-  - Node.js
-  - Express.js
-  - MongoDB
-  - MySQL
+### 👨‍💻 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+</p>
 
-- **Cloud Services:**
-  - AWS (Amazon Web Services)
+### 🎨 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+</p>
 
-## Projects Live Link
+### 🧩 Backend  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+</p>
 
-Here are some projects I've worked on:
-1. **Project 1: [Doctor Booking Apllication](https://healixspeciality.netlify.app/)**
-  Click the project tile to view the live site.
-2. **Project 2: [IllustraAI-text to image](https://illustraai.netlify.app/)**
-  Click the project tile to view the live site.
-3. **Project 3: [Kitchen Recipe Management](https://dishdashrecipe.netlify.app/)**
-  Click the project tile to view the live site.
-4. **Project 4: [Mark Down editor with Live preview]( https://profound-beignet-ffc61c.netlify.app)**
-   Click the project tile to view the live site.
+### ☁️ Cloud & DevOps  
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
+</p>
 
+---
 
+## 🚀 Live Projects
 
-## Contact
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| **Doctor Booking App** | A healthcare appointment booking system | [Live Site](https://healixspeciality.netlify.app/) |
+| **IllustraAI - Text to Image** | AI-powered image generation app | [Live Site](https://illustraai.netlify.app/) |
+| **Kitchen Recipe Manager** | Recipe creation and management platform | [Live Site](https://dishdashrecipe.netlify.app/) |
+| **Markdown Editor** | Real-time markdown editor with preview | [Live Site](https://profound-beignet-ffc61c.netlify.app) |
 
-- LinkedIn:(https://www.linkedin.com/in/vgdan25)
-- Email: vgdan.1999@gmail.com
+---
 
-## Get in Touch
+## 📸 Screenshots
 
-Feel free to reach out if you have any questions or if you want to collaborate on a project!
+### Screenshot 1  
+![Screenshot 1](https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600)  
+*A modern web application interface.*
 
-## Screenshots
+### Screenshot 2  
+![Screenshot 2](https://www.bing.com/th?id=OIP.Gn67FLVSiYsnUaU1g1TgFwHaEK&w=178&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)  
+*Responsive dashboard layout.*
 
-![Screenshot 1]([url-to-screenshot-1](https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600))
-*Description of the screenshot.*
+---
 
-![Screenshot 2]([url-to-screenshot-2](https://www.bing.com/th?id=OIP.Gn67FLVSiYsnUaU1g1TgFwHaEK&w=178&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)https://www.bing.com/th?id=OIP.Gn67FLVSiYsnUaU1g1TgFwHaEK&w=178&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)
-*Description of the screenshot.*
+## 📬 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vgdan25)
+- 📧 Email: vgdan.1999@gmail.com
+
+---
+
+## 🤝 Get in Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let’s connect and build something great together!
