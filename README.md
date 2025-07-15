@@ -48,15 +48,6 @@ I’m a **Full Stack Developer** passionate about building scalable and efficien
 
 ---
 
-## 📸 Screenshots
-
-### Screenshot 1  
-![Screenshot 1](https://images.pexels.com/photos/5926370/pexels-photo-5926370.jpeg?auto=compress&cs=tinysrgb&w=600)  
-*A modern web application interface.*
-
-### Screenshot 2  
-![Screenshot 2](https://www.bing.com/th?id=OIP.Gn67FLVSiYsnUaU1g1TgFwHaEK&w=178&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)  
-*Responsive dashboard layout.*
 
 ---
 
