@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vengadesan!
 
-I’m a **Full Stack Developer** passionate about building scalable and efficient web applications. I specialize in both frontend and backend technologies, with experience in cloud platforms and modern development tools.
+MERN Stack Developer | Full Stack Developer | React Developer | JavaScript | Node.js | MongoDB | Building Scalable Web Applications
 
 ---
 
