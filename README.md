@@ -54,7 +54,7 @@ MERN Stack Developer | Full Stack Developer | React Developer | JavaScript | Nod
 ## 📬 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vgdan25)
-- 📧 Email: vgdan.1999@gmail.com
+- 📧 vgdan.1999@gmail.com
 
 ---
 
